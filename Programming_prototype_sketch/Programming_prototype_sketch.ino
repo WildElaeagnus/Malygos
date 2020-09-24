@@ -350,7 +350,8 @@ void loop() {
   CGK_function(); //ЧГК -0
   break;
   case 1:
-  BRAIN_RING_function();  //Брейн ринг - 1
+//  BRAIN_RING_function();  //Брейн ринг - 1
+  BR_Step();
   break;
   case 2:
   W_KILLER_function();  //Ворошиловский снайперок - 2
