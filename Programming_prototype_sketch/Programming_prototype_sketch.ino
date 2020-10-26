@@ -1,4 +1,4 @@
-//CODE FOR arduino nano
+//CODE FOR arduino nano 0.3.6
 
 #include "GyverButton.h"
 #include <TM1637Display.h>
