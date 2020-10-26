@@ -1,3 +1,5 @@
+//CODE FOR arduino nano
+
 #include "GyverButton.h"
 #include <TM1637Display.h>
 #include "GyverTimer.h" 
